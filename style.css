@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    background-color: gainsboro;
+}
+.oneB{
+    display: flex;
+    flex-direction: row;
+}
+
+.oneH{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: black;
+    width: 15px;
+    height: 15px;
+    margin-left: -10px;
+    margin-top: -5px;
+}
+
+.oneI{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-self: center;
+    font-size: 11px;
+    margin-top: 1.5px;
+}
+
+.oneF{
+    display: flex;
+    border-radius: 25%;
+    background-color: white;
+    height: 35px;
+    width: 45px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+}
+
+.oneD{
+    display: flex;
+    margin-left: 90px;
+}
